@@ -18,7 +18,7 @@ The upcoming burning mechanisms will help reduce circulating TANGOs.
 
 #### Does the $TANGO token have any burn?
 
-We are working on adding burning mechanisms for the TANGO token
+We are working on adding burning mechanisms for the TANGO token.
 
 #### How does $TANGO enter into circulation?
 
