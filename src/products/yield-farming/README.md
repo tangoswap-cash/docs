@@ -1,6 +1,6 @@
 # Yield Farming
 
-<https://tangoswap.cash/stake>
+<https://tangoswap.cash/farm>
 
 ---
 
