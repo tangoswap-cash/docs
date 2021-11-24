@@ -2,7 +2,7 @@
 
 ---
 
-## TangoSwap.cash Exchange
+## TangoSwap.Cash Exchange
 
 <https://tangoswap.cash/swap>
 
