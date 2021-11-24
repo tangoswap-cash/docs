@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'MistSwap Docs',
+  title: 'TangoSwap Docs',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -67,7 +67,7 @@ module.exports = {
    */
   themeConfig: {
     logo: '/assets/img/logo.png',
-    repo: 'https://github.com/mistswapdex/docs',
+    repo: 'https://github.com/tangoswap-cash/docs',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
@@ -83,7 +83,7 @@ module.exports = {
       },
       {
         text: 'exchange',
-        link: 'https://app.mistswap.fi'
+        link: 'https://tangoswap.cash'
       },
     ],
     sidebar: [
