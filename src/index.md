@@ -26,7 +26,7 @@ footerWrap:
 - headline: Source Code
   items:
   - title: GitHub
-    link: https://github.com/tangoswap-cash/tangoswap
+    link: https://github.com/tangoswap-cash
     details: Build the future!
 
 ---
