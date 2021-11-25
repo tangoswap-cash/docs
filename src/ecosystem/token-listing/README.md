@@ -22,7 +22,7 @@
 
 ## To add to Token List
 
-Join the `#listing-requests` channel in [Discord](https://discord.gg/xFTnQEzu9T) and discuss with admins there. Please be prepared to provide all information about your project.
+Join the `#listing-requests` group in [Telegram](https://t.me/TangoSwapOfficial) and discuss with admins there. Please be prepared to provide all information about your project.
 
 ## To become a Farmable Token
 
