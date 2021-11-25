@@ -11,7 +11,7 @@ features:
   details: 5 second block times, low fees, truly decentralized. Be your own bank.
 - title: Deep Liquidity
   details: Focus on gaining highest marketshare and providing best rewards to liquidity providers.
-footer: TangoSwap.Cash | Created by a non-anonymous professional team
+footer: TangoSwap.Cash | Created by a non-anonymous professional team.
 footerColumn: 2
 footerWrap:
 - headline: Social
