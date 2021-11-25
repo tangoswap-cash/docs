@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /assets/img/hero.png
-tagline: Trade, launch, stake, farm, invest, automate, build on the premier DeFi platform of smartBCH
+tagline: Trade, launch, stake, farm, invest, automate, build on the premier DeFi platform of smartBCH. Tango, Moves like Cash.
 actionText: Quick Start →
 actionLink: /products/
 features:
@@ -11,7 +11,7 @@ features:
   details: 5 second block times, low fees, truly decentralized. Be your own bank.
 - title: Deep Liquidity
   details: Focus on gaining highest marketshare and providing best rewards to liquidity providers.
-footer: TangoSwap.Cash | Created by people from BCH Argentina and Knuth node.
+footer: TangoSwap.Cash | Created by a non-anonymous professional team.
 footerColumn: 2
 footerWrap:
 - headline: Social
