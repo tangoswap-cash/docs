@@ -57,7 +57,6 @@ module.exports = {
     ['link', { rel: 'shortcut icon', href: '/favicon.ico' }],
   ],
 
-  theme: 'antdocs',
   backToTop: true,
 
   /**
@@ -67,32 +66,34 @@ module.exports = {
    */
   themeConfig: {
     logo: '/assets/img/logo.png',
-    repo: 'https://github.com/tangoswap-cash/docs',
+    repo: 'https://github.com/tangoswap-cash',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
     nav: [
       {
-        text: 'tokenomics',
+        text: 'Tokenomics',
         link: '/tokenomics/',
       },
       {
-        text: 'products',
+        text: 'Products',
         link: '/products/',
       },
       {
-        text: 'exchange',
+        text: 'Exchange',
         link: 'https://tangoswap.cash'
       },
     ],
     sidebar: [
       '/',
       ['/tokenomics/', 'Tokenomics'],
+      ['/security/', 'Security'],
       {
         title: 'Products',
         collapsable: false,
         children: [
+          ['/products/', 'Overview'],
           {
             title: 'Exchange',
             children: [
@@ -125,10 +126,29 @@ module.exports = {
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
-  plugins: [
-    ['homebadge', {
-      selector: '.hero',
-      repoLink: 'https://github.com/tangoswap-cash/docs',
-    }],
-  ]
+  plugins: [],
+
+  /**
+   * Internationalization locales
+   */
+  // TODO: Recovery config after most of the docs are translated.
+  // locales: {
+  //   // The key is the path for the locale to be nested under.
+  //   // As a special case, the default locale can use '/' as its path.
+  //   '/': {
+  //     lang: 'English', // this will be set as the lang attribute on <html>
+  //     title: 'TangoSwap Docs',
+  //     description: description
+  //   },
+  //   '/i18n/de/': {
+  //     lang: 'Deutsch',
+  //     title: 'TangoSwap Doku',
+  //     description: 'TangoSwap Dokumentation'
+  //   },
+  //   '/i18n/zh/': {
+  //     lang: '简体中文',
+  //     title: 'TangoSwap 文档',
+  //     description: 'TangoSwap 文档'
+  //   },
+  // }
 }
