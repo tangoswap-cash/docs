@@ -1,6 +1,6 @@
 # Token Listing
 
-<https://github.com/mistswapdex/assets>
+<https://github.com/tangoswap-cash/assets>
 
 ---
 
@@ -18,7 +18,7 @@
 
  * Create a pull request to the main repo
 
- * Add link to [https://github.com/mistswapdex/default-token-list](mistswapdex/default-token-list) Issue
+ * Add link to [https://github.com/tangoswap-cash/default-token-list](tangoswap-cash/default-token-list) Issue
 
 ## To add to Token List
 

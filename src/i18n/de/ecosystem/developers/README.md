@@ -1,6 +1,6 @@
 # Developers
 
-<https://github.com/mistswapdex/mistswap-sdk>
+<https://github.com/tangoswap-cash/tangoswap-sdk>
 
 ---
 
@@ -10,6 +10,6 @@ We do not have documentation other than "read the code" for our SDK. Please chec
 
 Some useful files:
 
-* <https://github.com/mistswapdex/mistswap-sdk/blob/master/src/constants/addresses.ts>
+* <https://github.com/tangoswap-cash/tangoswap-sdk/blob/master/src/constants/addresses.ts>
 
-* <https://github.com/mistswapdex/mistswap-sdk/blob/master/src/constants/tokens.ts>
+* <https://github.com/tangoswap-cash/tangoswap-sdk/blob/master/src/constants/tokens.ts>
