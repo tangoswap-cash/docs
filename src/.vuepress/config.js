@@ -92,13 +92,7 @@ module.exports = {
       {
         title: 'Products',
         collapsable: false,
-        children: [ 
-          {
-            title: 'MistyLake',
-            children: [
-              ['/products/mistylake/', 'Overview'],
-            ],
-          },
+        children: [
           {
             title: 'Exchange',
             children: [
@@ -111,7 +105,7 @@ module.exports = {
             title: 'Yield Farming',
             children: [
               ['/products/yield-farming/', 'Overview'],
-              ['/products/yield-farming/the-mistbar/', 'MistBar'],
+              ['/products/yield-farming/the-tangobar/', 'TangoBar'],
             ],
           },
         ],
@@ -119,7 +113,7 @@ module.exports = {
       {
         title: 'Ecosystem',
         collapsable: false,
-        children: [ 
+        children: [
           ['/ecosystem/developers/', 'Developers'],
           ['/ecosystem/branding/', 'Branding'],
           ['/ecosystem/token-listing/', 'Token Listing'],
@@ -134,7 +128,7 @@ module.exports = {
   plugins: [
     ['homebadge', {
       selector: '.hero',
-      repoLink: 'https://github.com/mistswapdex/docs',
+      repoLink: 'https://github.com/tangoswap-cash/docs',
     }],
   ]
 }
