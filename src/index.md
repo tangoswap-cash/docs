@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /assets/img/hero.png
-tagline: Trade, launch, stake, farm, invest, automate, build on the premier DeFi platform of smartBCH. Tango, Moves like Cash
+tagline: Trade, launch, stake, farm, invest, automate, build on the premier DeFi platform of smartBCH. Tango, Moves like Cash.
 actionText: Quick Start →
 actionLink: /products/
 features:
