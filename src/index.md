@@ -16,7 +16,6 @@ footerColumn: 2
 footerWrap:
 - headline: Social
   items:
-    details: Join the community!
   - title: Telegram
     link: https://t.me/tangoswapcash
     details: Join the community!
@@ -37,7 +36,7 @@ footerWrap:
 
 ## What is Tango?
 
-Tango is a smartBCH exchange, and a suite of tools to help empower the individual. Our main product is TangoSwap, the exchange, which is based on the popular SushiSwap exchange. 
+Tango is a smartBCH exchange, and a suite of tools to help empower the individual. Our main product is TangoSwap, the exchange, which is based on the popular SushiSwap exchange.
 
 The following documentation details the functional and technical aspects of the ecosystem products.
 
