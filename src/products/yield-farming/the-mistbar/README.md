@@ -1,11 +1,11 @@
-# The MistBar
+# The TangoBar
 
-<https://app.mistswap.fi/stake>
+<https://tangoswap.cash/stake>
 
 ---
 
-## What is xMIST?
+## What is xTANGO?
 
-xMIST is a token, similar to our MLP tokens, that you receive in exchange for staking MIST tokens in the MistBar. While holding the token, it will appreciate in value, as fees from our exchange platform are "served to the MistBar." The xMIST token is always worth more than a regular MIST token, because xMIST accrues value from platform fees. When users make trades on the MistSwap exchange a 0.3% fee is charged. 0.05% of this fee is added to the MistBar pool in the form of LP tokens. When the rewards contract is called (minimum once per day) all the LP tokens are sold for Mist (on MistSwap Exchange). The newly purchased Mist is then divided up proportionally between all of the xMIST holders in the pool, meaning their xMIST is now worth more MIST. Because of the way the rewards are generated, the price of xMIST will increase with the value of MIST, and the value of one xMIST will always be greater than the value of one MIST. Fees generated into the MistBar are vested for a period of time [see the Vesting FAQ].
+xTANGO is a token, similar to our TLP tokens, that you receive in exchange for staking TANGO tokens in the TangoBar. While holding the token, it will appreciate in value, as fees from our exchange platform are "served to the TangoBar." The xTANGO token is always worth more than a regular TANGO token, because xTANGO accrues value from platform fees. When users make trades on the TangoSwap exchange a 0.3% fee is charged. 0.05% of this fee is added to the TangoBar pool in the form of LP tokens. When the rewards contract is called (minimum once per day) all the LP tokens are sold for Tango (on TangoSwap Exchange). The newly purchased Tango is then divided up proportionally between all of the xTANGO holders in the pool, meaning their xTANGO is now worth more TANGO. Because of the way the rewards are generated, the price of xTANGO will increase with the value of TANGO, and the value of one xTANGO will always be greater than the value of one TANGO. Fees generated into the TangoBar are vested for a period of time [see the Vesting FAQ].
 
-Stake your MIST for xMIST here: <https://app.mistswap.fi/stake>.
+Stake your TANGO for xTANGO here: <https://tangoswap.cash/stake>.
