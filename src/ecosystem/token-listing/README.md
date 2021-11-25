@@ -1,6 +1,6 @@
 # Token Listing
 
-<https://github.com/mistswapdex/assets>
+<https://github.com/tangoswapdex/assets>
 
 ---
 
@@ -18,11 +18,11 @@
 
  * Create a pull request to the main repo
 
- * Add link to [https://github.com/mistswapdex/default-token-list](mistswapdex/default-token-list) Issue
+ * Add link to [https://github.com/tangoswapdex/default-token-list](tangoswapdex/default-token-list) Issue
 
 ## To add to Token List
 
-Join the `#listing-requests` channel in [Discord](https://discord.gg/xFTnQEzu9T) and discuss with admins there. Please be prepared to provide all information about your project.
+Join the `#listing-requests` group in [Telegram](https://t.me/TangoSwapOfficial) and discuss with admins there. Please be prepared to provide all information about your project.
 
 ## To become a Farmable Token
 
