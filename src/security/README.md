@@ -14,4 +14,4 @@ MasterChef is controlled by a 3-day Timelock, delaying all admin actions
 
 The core contracts are minimally changed from SushiSwap, 0xGuard has audited and verified this.
 
-[0xGuard Audit](/TangoSwap-0xguard-audit.pdf)
+[0xGuard Audit](https://github.com/0xGuard-com/audit-reports/blob/be809208aa3cec5e390aab59cd01ead15c68d1bd/tangoswap/TangoSwap_final-audit.pdf)
