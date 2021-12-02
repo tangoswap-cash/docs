@@ -22,6 +22,9 @@ footerWrap:
   - title: Twitter
     link: https://twitter.com/TangoswapCash
     details: Keep up to date!
+  - title: Instagram
+    link: https://www.instagram.com/tangoswap.cash
+    details: The latest news!
 - headline: Source Code
   items:
   - title: GitHub
