@@ -8,9 +8,7 @@ Most DEX's use a developer selected multiplier on yield farms to reward in a nat
 
 ## How does TangoSwap's algorithm work?
 
-First, the top 30 pairs by volume are selected. We set an allocation floor of 0.25% (Currently 0.25 TANGO per block out of 100 total TANGO issuance per block) for each. The total volume of the pair over the preceeding month is multiplied by the volatility of the pair over the preceeding month.
-
-[You can view the algorithm here](https://github.com/tangoswap-cash/tangoswap-analytics/blob/master/src/pages/pools/upcoming.js)
+First, the top 30 pairs by volume are selected. We set an allocation floor of 0.25% for each. The total volume of the pair over the preceeding month is multiplied by the volatility of the pair over the preceeding month, this is then divided by the sumproduct of all 30 pairs volume * volatility.
 
 ## Why was this algorithm selected?
 
