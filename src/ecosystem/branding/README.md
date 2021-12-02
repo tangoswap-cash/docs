@@ -105,15 +105,18 @@ All files including `.ai` can be found at the repository.
 ![icon](https://raw.githubusercontent.com/tangoswap-cash/art/master/xtango/negative-32x32.png)
 ![icon](https://raw.githubusercontent.com/tangoswap-cash/art/master/xtango/negative-16x16.png)
 
-Marketing:
+## Marketing:
 
-Does Tango have professional designers?
+### Does Tango have professional designers?
 - Yes, we have a great graphic designer team.
 - We work with high quality designs to achieve attractive marketing.
 
-Does TANGO have a private sale?
+### Does TANGO have a private sale?
 - TANGO has not pre-sale and not pre-mine.
 
 - At the moment we do not have private sale agreements with exchanges. This would serve to finance higher marketing expenses.
 
 - Private sale does not require more creation of TANGO.
+
+### Are you going to do TANGO airdrops?
+- Yes, AirDrops to the community and Airdrops to Exchange users or private companies focused on Crypto. The Tango for Aidrops will come out from the development reward.
