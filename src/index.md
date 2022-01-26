@@ -47,6 +47,8 @@ In order to partake in the Tango ecosystem, please join our Telegram: https://t.
 
 To interact with our products, please explore the links below:
 
+SmartSwap (DEX Aggregator): <https://tangoswap.cash/smart-swap>   
+
 TangoSwap Exchange: <https://tangoswap.cash/swap>
 
 Tango Yield Farms: <https://tangoswap.cash/farm>

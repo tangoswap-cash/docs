@@ -105,6 +105,17 @@ All files including `.ai` can be found at the repository.
 ![icon](https://raw.githubusercontent.com/tangoswap-cash/art/master/xtango/negative-32x32.png)
 ![icon](https://raw.githubusercontent.com/tangoswap-cash/art/master/xtango/negative-16x16.png)
 
+
+---
+
+## SmartSwap
+
+![icon](https://raw.githubusercontent.com/tangoswap-cash/art/master/smartswap/smartswap.png)
+
+
+
+---
+
 ## Marketing:
 
 ### Does Tango have professional designers?
