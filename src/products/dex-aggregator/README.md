@@ -18,7 +18,8 @@ SmartSwap pulls pricing data from all liquidity sources at the time of your trad
 
 
 ## How SmartSwap help TANGO?
-All the fees that the SmartSwap (DEX Aggregator) earns are used to buy TANGO.
+All the fees that the SmartSwap (DEX Aggregator) earns are used to buy and burn TANGO.
+- Burn address: 0x0000000000000000000000626c61636b686f6c65  
 
 
 ----
