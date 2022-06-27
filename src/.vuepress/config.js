@@ -109,6 +109,12 @@ module.exports = {
               ['/products/yield-farming/the-tangobar/', 'TangoBar'],
             ],
           },
+          {
+            title: 'DEX Aggregator',
+            children: [
+              ['/products/dex-aggregator/', 'Overview'],
+            ],
+          },          
         ],
       },
       {
